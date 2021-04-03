@@ -1,0 +1,9 @@
+## 	The description and usage of this project.
+#
+#	Deployment method:
+#		1. Tab "make" instruction in this directory.
+#		2. Copy "./sharer" to the ARM development board.
+#		3. Create "sharer.conf" in the same directory of "sharer" 
+#		   or it will use a default configuration file.
+#		4. Tab "make clean" instruction in this directory.
+#		
